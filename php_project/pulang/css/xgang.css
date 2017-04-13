@@ -1,0 +1,15 @@
+*{margin:0; padding:0;}
+			.gang{width:965px; margin:auto;padding-bottom:45px;}
+			.gang-top{width:100%; height:60px;}
+			.gang-top h1{font-size:30px; height:50px; font-weight: normal; text-align:center; line-height:50px;}
+			.gang-top em{width:70px; height:5px; margin:5px auto; background:#ef9200; display:block;}
+			.xkong{width:100%; height:60px;}
+			.fenlei1{width:100%;}
+			.biaoti{text-align:center; width:85px; display:block; height:30px;  background:#b5b5b5; line-height:30px; color:#717171;}
+			.country{width:100%; list-style:none; overflow:hidden;}
+			.fenlei1:after{content:'.'; clear:both; display:block; height:0; overflow:hidden; visibility:hidden;}
+			.country li{float:left; border-left:1px solid #ccc; font-family: "宋体"; box-sizing:border-box; font-size:12px; width:120px; margin:3px 0; text-align:center;}
+			.country li:last-child{margin-bottom: 8px;}
+			.country li:hover{background:#717171; color:#fff;}
+			.kong{width:100%; height:15px;}
+			.xkong2{width:100%; height:40px; background:#d3d3d3;}

@@ -1,0 +1,37 @@
+#container{width:965px;height:auto;margin:auto;}
+			.cultuer-tit{color: #2c2c2c;height:75px;padding-top:15px;
+    font: normal 30px/50px "Microsoft Yahei";
+    text-align: center;background: url("../img/culture-bg.png") no-repeat  bottom center;}
+    .biaozhi{width:auto;height:276px;}
+    .biaozhi-left{width:485px;height:276px;float:left;}
+    .biaozhi-left h3{font: normal 18px/32px "Microsoft Yahei";text-align: left;}
+    .biaozhi-left p{display: block;
+    overflow: hidden;
+    font: normal 12px/30px "Microsoft Yahei";white-space: normal;}
+    .biaozhi-right{margin-top:50px;width:409px;height:275px;float:right;}
+    .zhuzhang{width:auto;height:528px;}
+    .zhu-left{width:600px;float:left;}
+    .zhu-right{width:328px;float:right;}
+    .zhu-right h3{font: normal 18px/18px "Microsoft Yahei";text-align: left;}
+    .zhu-right p{display: block;
+    overflow: hidden;
+    font: normal 12px/30px "Microsoft Yahei"}
+     .zhu-right p span{color:#ee7817}
+    
+    
+    .jiazhi{width:auto;height:360px;}
+    .jiazhi-left{width:485px;float:left;}
+    .jiazhi-left h3{font: normal 18px/18px "Microsoft Yahei";text-align: left;}
+    .jiazhi-left p{display: block;
+    overflow: hidden;
+    font: normal 12px/30px "Microsoft Yahei"}
+    .jiazhi-left p span{color:#ee7817}
+    .jiazhi-right{width:452px;float:right;}
+    .shiming{height:515px;width:auto;}
+    .shiming-left{width:485px;float:left;}
+    .shiming-right{width:430px;float:right;}
+    .shiming-right h3{font: normal 18px/18px "Microsoft Yahei";text-align: left;}
+    .shiming-right p{display: block;
+    overflow: hidden;
+    font: normal 12px/30px "Microsoft Yahei"}
+    .shiming-right p span{color:#ee7817}

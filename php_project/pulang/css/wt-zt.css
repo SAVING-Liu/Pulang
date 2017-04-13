@@ -1,0 +1,17 @@
+#zhanting{width:100%;height:1200px;}
+			#zhanting h2{color: #2c2c2c;height:75px;padding-top:15px;
+    font: normal 30px/50px "Microsoft Yahei";
+    text-align: center;background: url("../img/culture-bg.png") no-repeat  bottom center;}
+    .box{width:100%;height:1123px;}
+    .box-inner{width:965px;height:1010px;margin:0 auto;padding-top:110px;}
+	.inner1{display:flex;width:100%;height:300px;justify-content: space-between;}
+	 .inner1 dl{width:300px;height:250px;;box-shadow: 1px 1px 5px 0px gray;position: relative;}
+	 .inner1 dt{width:100%;height:200px;overflow: hidden}	
+	 .inner1 dt img{wdith:100%;height:200px;}
+	 .inner1 dd{width:100%;height:50px;font: normal 14px/50px "Microsoft Yahei";margin-left: 0px;}	
+	 .inner1 dd i{font-style: normal;margin-left:16px;}
+	 .inner1 dd span{font-style: normal;margin-left:112px;}
+	 .inner1 dd em{font-style: normal;margin-left:5px;}
+	 .inner1 .dingwei{width:100%;height:150px;background-color: #ee7817;position: absolute;top:100px;left:0px;display: none;}
+.dingwei span{color:#fff;font: normal 14px/36px "微软雅黑"}
+.inner1 dl:hover .dingwei{display:block;}	

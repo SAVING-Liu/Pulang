@@ -1,0 +1,87 @@
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.n_box{
+	background: #f2f2f2;
+}
+.n_hz{
+	position: relative;
+    width: 960px;
+    overflow: hidden;
+    margin: 0px auto;
+    visibility: visible;
+    z-index: 2;
+    left: 0px;
+}
+.n_al {
+    padding: 40px 0;
+    color: #fc5f00;
+    text-align: center;
+    font: normal 26px/36px "Microsoft Yahei";
+}
+.n_em{
+	display: block;
+    text-transform: uppercase;
+    color: #666666;
+    font: normal 16px/26px "Microsoft Yahei";
+}
+.n_box .n_picList {
+	width: 4320px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+.n_box .n_picList li{
+    overflow: hidden;
+    float: left;
+    width: 228px;
+    height: 258px;
+	width: 228px;
+    height: 258px;
+    display: block;
+    float: left;
+    background: #fff;
+    margin: 0 5px;
+    border: 1px solid #dcdcdc;
+}
+.n_box .n_picList li img{
+	width: 100%;
+    height: 158px;
+}
+.n_box .n_picList li span{
+	display: block;
+    color: #666666;
+    padding-left: 10px;
+    font: normal 12px/22px "Microsoft Yahei";
+}
+.n_tap{
+	width: 100px;
+    height: 37px;
+    padding: 54px 0;
+    text-align: center;
+    margin: 0 auto;
+}
+.fl {
+    float: left;
+    display: block;
+}
+.fr {
+    float: right;
+    display: block;
+}
+.n_hz .n_tap li{
+	width: 37px;
+    height: 37px;
+    text-align: center;
+}
+.n_tap li a{
+	width: 37px;
+    height: 37px;
+    display: block;
+    color: #fff;
+    font: bold 30px/37px "宋体";
+    background: #c9c9c9;
+}

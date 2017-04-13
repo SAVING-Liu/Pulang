@@ -1,0 +1,14 @@
+h2{color: #2c2c2c;height:65px;padding-top:15px;
+    font: normal 30px/50px "Microsoft Yahei";
+    text-align: center;background: url("img/culture-bg.png") no-repeat  bottom center;}
+    .news{width:100%;height:600px;}
+    .new-inner{width:965px;height:828px;padding-top:60px;margin:0 auto;}
+    .new-left{width:226px;float:left;}
+    .new-left ul{width:100px;border-right:1px dotted #ee7817;}
+    .new-left ul li{height:75px;font: normal 18px/24px "微软雅黑";list-style: none;background: url("img/dian.png") no-repeat 95px top;}
+    .new-left ul li:hover  p{background-color: #ee7817;}
+    .new-right{width:730px;float:left;}
+    .new-right li{height:100px;padding-bottom: 25px;margin-bottom:25px;border-bottom: 1px dotted gray;list-style: none;}
+    .new-right img{width:140px;height:80px;float:left;}
+    .new-right span{display:block;margin-left:20px;float:left;}
+    .new-right time{display: block;float:right;font:normal 12px/24px #eee "微软雅黑"}

@@ -1,0 +1,122 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Microsoft Yahei";
+}
+
+.message {
+	width: 965px;
+	margin: auto;
+}
+
+.message-top {
+	width: 100%;
+	height: 60px;
+}
+
+.message-top h1 {
+	font-size: 30px;
+	height: 50px;
+	font-weight: normal;
+	text-align: center;
+	line-height: 50px;
+}
+
+.message-top em {
+	width: 70px;
+	height: 5px;
+	margin: 5px auto;
+	background: #ef9200;
+	display: block;
+}
+
+.xkong {
+	width: 100%;
+	height: 60px;
+}
+
+.form-horizontal {
+	position: relative;
+}
+
+.con-right {
+	width: 250px;
+	position: absolute;
+	right: 50px;
+	top: 0;
+}
+
+.con-right img {
+	width: 100%;
+	height: auto;
+}
+
+.cont1 {
+	width: 100%;
+	background: #c3c3c3;
+	padding-left: 10px;
+	margin-top: -10px;
+}
+
+.cont1 h4 {
+	font-size: 16px;
+	color: #fff;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 10px;
+}
+
+.cont1 p {
+	height: 30px;
+	line-height: 30px;
+	color: #fff;
+	font-size: 12px;
+}
+
+;
+.input1 {
+	border-radius: 10px;
+	color: #949494;
+	height: 39px;
+}
+
+.form-horizontal label {
+	font-size: 14px;
+	height: 37px;
+	color: #949494
+}
+
+.form-horizontal button {
+	height: 45px;
+	border-radius: 20px;
+	background: #c3c3c3;
+	margin-top: 20px;
+	width: 135px;
+	font-size: 20px;
+}
+
+.form-horizontal .btn2 {
+	background: #ef9200;
+	color: #fff;
+}
+
+.form-horizontal button:hover {
+	background: #ef9200;
+	color: #fff;
+}
+
+.span1 {
+	height: 39px;
+	line-height: 39px;
+	width: 4px;
+	color: red;
+}
+
+.biaoti3 {
+	color: #ef9200;
+	font-weight: normal;
+	font-size: 16px;
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 10px;
+}

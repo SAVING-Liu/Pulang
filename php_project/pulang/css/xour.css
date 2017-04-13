@@ -1,0 +1,142 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.gang {
+	width: 965px;
+	margin: auto;
+}
+
+.gang-top {
+	width: 100%;
+	height: 60px;
+}
+
+.gang-top h1 {
+	font-size: 30px;
+	height: 50px;
+	font-weight: normal;
+	text-align: center;
+	line-height: 50px;
+}
+
+.gang-top em {
+	width: 70px;
+	height: 5px;
+	margin: 5px auto;
+	background: #ef9200;
+	display: block;
+}
+
+.xkong {
+	width: 100%;
+	height: 60px;
+}
+
+.ourTop {
+	width: 845px;
+	padding: 0 60px;
+}
+
+.top-left {
+	width: 410px;
+	float: left;
+	margin-bottom: 40px;
+}
+
+.ourTop h4 {
+	height: 30px;
+	font-weight: normal;
+	line-height: 30px;
+	width: 410px;
+	margin-bottom: 10px;
+	color: #ef9200;
+	font-size: 20px;
+}
+
+.spanpan {
+	width: 410px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	display: block;
+	color: #666;
+}
+
+.top-right {
+	width: 414px;
+	height: 220px;
+	float: right;
+	margin-bottom: 40px;
+}
+
+.top-right img {
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+}
+
+.kong4 {
+	clear: both;
+	height: 0;
+	overflow: hidden;
+}
+
+.bottom-left {
+	width: 300px;
+	float: left;
+}
+
+.bottom-dl {
+	width: 300px;
+	margin-bottom: 8px;
+}
+
+.bottom-dl dt {
+	width: 100%;
+}
+
+.bottom-dl dt img {
+	width: 100%;
+}
+
+.bottom-dl dd {
+	width: 100%;
+}
+
+.bottom-dl dd h5 {
+	height: 30px;
+	font-weight: normal;
+	line-height: 30px;
+	font-size: 16px;
+}
+
+.bottom-dl dd p {
+	width: 100%;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.onedl {
+	margin-bottom: 35px;
+}
+
+.bottom-right {
+	float: right;
+	width: 340px;
+}
+
+.bottom-right h3 {
+	width: 100%;
+	height: 30px;
+	font-weight: normal;
+	line-height: 30px;
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.kong5 {
+	width: 100%;
+	height: 35px;
+}

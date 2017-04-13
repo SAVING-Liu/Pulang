@@ -1,0 +1,61 @@
+.jiange6{
+	width: 100%;
+    height: 60px;
+    overflow: hidden;
+    clear: both;
+}
+.jiange3t{
+	width: 100%;
+    height: 20px;
+    overflow: hidden;
+    clear: both;
+}
+.n_sectionA{
+	width: 965px;
+    margin: 0 auto;
+}
+.n_wenzi{
+	padding: 10px 30px;
+    color: #2c2c2c;
+    text-align: center;
+    font: normal 14px/26px "Microsoft Yahei";
+}
+.n_marlf{
+	margin-left: 25px;
+    height: 336px;
+}
+.n_aboutlist{
+	width:965px;
+	height:752px;
+	padding-left:0;
+}
+.n_aboutlist li{
+	display: block;
+    float: left;
+    width: 283px;
+    height: 300px;
+    margin: 40px 0 0 38px;
+    overflow: hidden;
+}
+.n_aboutlist li img{
+	width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.n_aboutlist li h4{
+	color: #ef9200;
+    font: normal 18px/36px "Microsoft Yahei";
+    text-align: center;
+}
+.n_aboutlist li span{
+	display: block;
+    margin-top: 5px;
+    color: #2c2c2c;
+    font: normal 12px/22px "Microsoft Yahei";
+}
+.n_jiange45{
+	width: 100%;
+    height: 45px;
+    overflow: hidden;
+    clear: both;
+}

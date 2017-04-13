@@ -1,0 +1,33 @@
+.lf_top{width:100%;height:38px;line-height:38px;background-color:#5b5b5b;}
+.lf_top ul{float:right;list-style:none;}
+.lf_top ul li{float:left;color:#fff;}
+.lf_top ul li>a{color:#fff;}
+.lf_top ul li>a:hover{text-decoration:none}
+.lf_top ul .lf_weixin{
+	padding-top:8px;	
+}
+.lf_m1{width:16px;}
+.lf_top ul .lf_weixin a{
+	display:block;
+	width:16px;
+	height:22px;
+	background:url(../img/icons_0_16.png) no-repeat 0px -1608px;
+	background-size:cover;
+}
+.lf_top ul .lf_xinlang a{padding:0 5px;}
+.lf_top .lf_word a{padding:0 16px;font-weight:600;font: normal 14px/14px "Microsoft Yahei";}
+
+.lf_logo{height:80px;line-height:80px;}
+.lf_nav ul li>a{color:#000;font-size:14px;font-family: "微软雅黑";}
+.lf_nav{width:100%;background-color:#f2c82c;height:50px;}
+.lf_nav ul>li>a:hover{color:#fff;background-color:#ef9200;}
+.lf_nav ul>li.active a{color:#fff;background-color:#ef9200;}
+/*head end*/
+.lf_footer{
+	width:100%;background-color:#f2c82c;padding:46px 0;margin-top:100px;
+}
+.lf_footer p{color:#000;line-height:20px;}
+.lf_ftop>a{padding:0 6px;color:#000;} 
+.lf_ftop>a:hover{color:#ef9200;text-decoration:none;}
+.lf_ftop .lf_href{padding-left:6px;border-left:1px solid #000;}
+.lf_bot{margin-top:24px;}

@@ -1,0 +1,15 @@
+.sever{height:226px;background-color:#f2c82c ;display: flex;justify-content: space-around;}
+			.sever1{position: relative;margin:0 auto;text-align: center;width:210px;height:180px;overflow: hidden;margin-top:47px;}
+			.sever1-2{position:absolute;width:210px;height:180px;text-align: center;color:#FFFFFF;font: normal 18px/26px "Microsoft Yahei";top:0;left:0;display: none;}
+			.sever1 p{color: #fff;
+    margin-top: 20px;
+    font: normal 18px/26px "Microsoft Yahei";}
+			.img-ss{display:block;position: absolute;top:0px;left:0px;}
+			.sever-tit{height:170px;}
+			.sever-tit h2{text-align: center;font:normal 36px/48px "Arial";margin-top: 45px;}
+			.sever-tit p {display: block;text-align: center;font: normal 26px/48px "Microsoft Yahei";color:#fc5f00;}
+			.sever1:hover .img-dd {transform: scale(1.2);}
+			.sever1:hover .sever1-2{display: block;}
+			.sever2{height:120px;background-color:#f2c82c ;display: flex;justify-content: space-around;}
+			.sever2{padding-top:20px;}
+			.sever2 p{margin:0 auto;font: normal 16px/26px "Microsoft Yahei";}

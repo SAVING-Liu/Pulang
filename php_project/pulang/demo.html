@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>	
+		<script src="js/lib/react.min.js"></script>
+		<script src="js/lib/react-dom.min.js"></script>
+		<script src="js/lib/browser.min.js"></script>
+		
+	</head>
+	<body>
+		<div id="out">
+			
+		</div>
+	</body>
+	<script type="text/babel">
+		var X = React.createClass({
+			render:function(){
+				var str = {"width":"325px","height":"155px",position:"absolute",bottom:"0",left:"0",background:"url(img/xf.png) no-repeat center top",backgroundSize:"325px 155px"}
+				return(
+					<div style={str}></div>
+				)
+			}
+		})
+		ReactDOM.render(<X/>,document.getElementById("out"))
+	</script>
+</html>
